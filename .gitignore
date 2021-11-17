@@ -87,4 +87,4 @@ typings/
 # my balls
 ysg.jpg
 ysk.jpg
-/data
+data/*
